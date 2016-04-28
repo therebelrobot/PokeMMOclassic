@@ -2,6 +2,8 @@
 
 A Pokemon Red/Blue MMO, inspired by [maierfelix/PokeMMO](maierfelix/PokeMMO), though significantly smaller scope. I just want a Pokemon Red I can fight my friends in, yo.
 
+Looking into [phaser](https://github.com/photonstorm/phaser) atm.
+
 ## Goals
 
 - Recreate the same gameplay experience as the original Pokemon Red/Blue, including:
