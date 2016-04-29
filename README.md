@@ -17,3 +17,4 @@ Looking into [phaser](https://github.com/photonstorm/phaser) atm.
   - [ ] Gyms/Badges
 - Allow other players to join the world with you, beginning with PVP mode, maybe expanding to group battles.
 - Allow players to set their own "realm", with invites/banning/etc.
+- Restrict PVP interaction based on level (hide low level players from high to prevent harassment)
