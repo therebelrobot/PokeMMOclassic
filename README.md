@@ -6,6 +6,7 @@ Looking into [phaser](https://github.com/photonstorm/phaser) atm.
 
 ## Goals
 
+- Local Resource Packs - Ability to add your own - IP laws, yo. I won't be containing any of the original pokemon artwork or music here, but you can for sure make your own!
 - Recreate the same gameplay experience as the original Pokemon Red/Blue, including:
   - [ ] Login / save
   - [ ] Movement / Collisions
